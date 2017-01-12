@@ -59,6 +59,15 @@ public static void main (String argsp[]){
 <hongtaofu@tcl.com>
 
 ---
+
+**设置表格对其方式**
+
+| 左对齐 | 居中对齐 | 右对齐 |
+|:------|:-------:|------:|
+|cell1 |cell2|cell 3|
+|1|2|3|
+
+---
 特殊字符
 
 \\   反斜线  
